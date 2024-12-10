@@ -1,0 +1,4 @@
+./gmail/node_modules/*
+./microsoft/node_modules/*
+./gmail/*.env
+./microsoft/*.env
